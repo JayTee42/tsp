@@ -1,4 +1,4 @@
-CFLAGS = -O3 -fopenmp -DUSE_OMP -DUSE_CTZ_MACRO
+CFLAGS = -O3 -fopenmp -DUSE_CTZ_MACRO
 
 OS := $(shell uname)
 
