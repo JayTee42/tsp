@@ -4,9 +4,9 @@
 
 typedef uint32_t subset_t;
 typedef uint8_t vertex_t;
-typedef uint16_t cost_t;
+typedef uint8_t cost_t;
 
-#define COST_MAX UINT16_MAX
+#define COST_MAX UINT8_MAX
 
 //Maximum: 32 actual nodes -> N <= 31
 #define ACTUAL_N 27
