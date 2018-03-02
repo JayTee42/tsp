@@ -1,5 +1,5 @@
 # tsp
-An implementation of the Held-Karp dynamic programming algorithm to solve the Travelling Salesman Problem
+An implementation of the Held-Karp dynamic programming algorithm to solve the Traveling Salesman Problem
 
 - Parallelization via OpenMP (see Makefile)
 - Linux (e. g. `pacman -S openmp`) and macOS (`brew install llvm`)
